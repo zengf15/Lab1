@@ -16,7 +16,7 @@ library(datasauRus)
 
 ### Exercise 1
 
-Remove this text, and add your answer for Exercise 1 here.
+
 
 ### Exercise 2
 
