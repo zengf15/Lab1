@@ -1,6 +1,6 @@
 Lab 01 - Hello R
 ================
-Fanyi Zeng
+Fanyi
 01/14/22
 
 ## Load packages and data
