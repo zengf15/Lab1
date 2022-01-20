@@ -2,7 +2,7 @@
 title: "Lab 01 - Hello R"
 author: "Fanyi Zeng"
 date: "01/14/22"
-output: html_document
+output: github_document
 ---
 
 ## Load packages and data
